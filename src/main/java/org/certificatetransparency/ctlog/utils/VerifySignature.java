@@ -13,7 +13,7 @@ import java.util.Map;
 import org.bouncycastle.asn1.ASN1OctetString;
 import org.bouncycastle.asn1.ASN1Primitive;
 import org.bouncycastle.asn1.DEROctetString;
-import org.bouncycastle.crypto.tls.TlsUtils;
+import org.bouncycastle.tls.TlsUtils;
 import org.bouncycastle.util.encoders.Base64;
 import org.certificatetransparency.ctlog.CertificateInfo;
 import org.certificatetransparency.ctlog.LogInfo;
